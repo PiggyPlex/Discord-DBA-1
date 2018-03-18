@@ -30,7 +30,7 @@ npm install discord-dba
 **Master Version**
 
 ```
-npm install https://github.com/DiscordDBA/Discord-DBA/edit/master
+npm install https://github.com/DiscordDBA/Discord-DBA
 ```
 
 ## Require The Package
