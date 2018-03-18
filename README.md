@@ -4,7 +4,6 @@
   </p>
   <p>
     <a href="https://discord.gg/yeXDVUH"><img src="https://discordapp.com/api/guilds/222078108977594368/embed.png" alt="Discord server" /></a>
-   <a href="https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}"><img="https://travis-ci.org/{ThePvPGuyFTW}/{REPO-NAME}.png?branch=master"/></a>
     <a href="https://www.npmjs.com/package/discord-dba"><img src="https://img.shields.io/npm/v/discord-dba.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord-dba"><img src="https://img.shields.io/npm/dt/discord-dba.svg?maxAge=3600" alt="NPM downloads" /></a>
    </p>
