@@ -6,6 +6,7 @@ Discord-DBA is made in a language called javascript, have not learned javascript
 | ------ | ------ | ------ | ------ | 
 | userID | String | No | Gets the user id from the author of the message or the user you mentioned. |
 
+#### FetchBal Usage
 
 ```js
 // Import Discord.js
