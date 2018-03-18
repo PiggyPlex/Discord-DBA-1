@@ -1,6 +1,6 @@
 ## FetchBal Example / Usage
 
-Discord-DBA is made in a language called javascript, have not learned javascript yet? Please [learn and understand]() it before using this.
+Discord-DBA is made in a language called javascript, have not learned javascript yet? Please [learn and understand](https://www.codecademy.com/learn/learn-javascript) it before using this.
 
 ```js
 // Import Discord.js
