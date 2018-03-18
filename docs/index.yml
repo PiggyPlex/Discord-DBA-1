@@ -5,6 +5,6 @@
 - name: Examples
   files:
     - name: FetchBal
-      path: fetchBal.js
+      path: fetchBal.md
     - name: UpdateBal
-      path: updateBal.js
+      path: updateBal.md
