@@ -31,7 +31,7 @@ client.on('message', message => {
   // Get the user balance
   dba.updateBal(message.author.id, 500).then(u => {
     // Send NEW Balance to the channel
-    message.channel.send('$' + u.money); // Number is 500 for example, this will higher your balance from 0 to 500, from 500 to 1000. Add a **-** to lower your balance. 
+    message.channel.send('$' + u.money); // Number is 500 for example, this will higher your balance from 0 to 500, from 500 to 1000. Add a `-` to lower your balance. 
 
   }
  });
