@@ -2,6 +2,11 @@
 
 Discord-DBA is made in a language called javascript, have not learned javascript yet? Please [learn and understand](https://www.codecademy.com/learn/learn-javascript) it before using this.
 
+| Parameter | Type | Optional | Description |
+| ------ | ------ | ------ | ------ | 
+| userID | String | No | Gets the user id from the author of the message or the user you mentioned. |
+
+
 ```js
 // Import Discord.js
 const Discord = require('discord.js');
