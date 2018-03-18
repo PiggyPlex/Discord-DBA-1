@@ -1,4 +1,4 @@
-"<div align="center">
+<div align="center">
  <p>
     <a href="https://nodei.co/npm/discord-dba.png/"><img src="https://nodei.co/npm/discord-dba.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
