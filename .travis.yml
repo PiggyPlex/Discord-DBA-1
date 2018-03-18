@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '8.0.0'
+env:
+  global:
+  - GIT_AUTHOR_NAME: ThePvPGuyFTW
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: npm run discord-dba
+  on:
+    branch: master
