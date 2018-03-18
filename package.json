@@ -1,0 +1,39 @@
+{
+  "_from": "discord-dba",
+  "_id": "discord-dba@0.2.8-master",
+  "_inBundle": false,
+  "_location": "/discord-dba",
+  "_phantomChildren": {},
+  "_resolved": "https://registry.npmjs.org/discord-dba/-/discord-dba-x.x.x.tgz",
+  "author": {
+    "name": "ThePvPGuyFTW"
+  },
+"dependencies": {
+  "sqlite3": "^3.1.13",
+  "discord.js": "^11.3.2"
+},
+"engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordDBA/Discord-DBA.git"
+  },
+  "deprecated": false,
+  "description": "Discord-DBA is a Database made for discord.js",
+  "keywords": [
+    "DBA",
+    "Discord-DBA",
+    "Economy"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "discord-dba",
+  "scripts": {
+    "start": "node .",
+    "test": "npm install && npm run discord-dba",
+    "release-to-branch": "discord-dba"
+  },
+  "version": "0.2.8",
+  "readme": "README.md"
+}
