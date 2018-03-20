@@ -27,12 +27,6 @@ You need to have **Discord.js v11.3.2 or higher**.
 npm install discord-dba
 ```
 
-**Master Version**
-
-```
-npm install https://github.com/DiscordDBA/Discord-DBA
-```
-
 ## Require The Package
 
 ```JS
