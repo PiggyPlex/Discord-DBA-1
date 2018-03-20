@@ -9,17 +9,23 @@
    </p>
 </div>
 
-# Discord-DBA 
+# Discord-DBA Welcome
 
-Join our [**Discord Server**](https://discord.gg/yeXDVUH) to get a knowledge of Discord-DBA.
+---
+
+Welcome to Discord-DBA. Thank you for using this Database Alternative for your Discord.js Bot.
 
 **Note:** This package is still under development and will be updated with big features and bug fixes.
 
+---
+
 ## Dependencies
 
-You need to have **Node.js Engine v8.0.0 or higher**.
-You need to have **Sqlite3 v3.1.13 or higher**.
-You need to have **Discord.js v11.3.2 or higher**.
+> *You need to have **Node.js Engine v8.0.0 or higher**.
+> *You need to have **Sqlite3 v3.1.13 or higher**.
+> *You need to have **Discord.js v11.3.2 or higher**.
+
+---
 
 ## Installation
 
@@ -41,11 +47,15 @@ dba.fetchBal(message.author.id).then(u => {
 });
 ```
 
+---
+
 ## Docs
 
 Learn more about **Discord-DBA** documents by joining our [Discord Server](https://discord.gg/yeXDVUH). Get downloads, information, news and help much faster.
 
+---
+
 ## Github
 
-Found any issues? Please report them on our [github issue tab](https://github.com/DiscordDBA/Discord-DBA/issues)!
+> *Found any issues? Please report them on our [github issue tab](https://github.com/DiscordDBA/Discord-DBA/issues)!
 
