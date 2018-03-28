@@ -1,6 +1,6 @@
 {
   "_from": "discord-dba",
-  "_id": "discord-dba@0.2.8-master",
+  "_id": "discord-dba@0.3.2",
   "_inBundle": false,
   "_location": "/discord-dba",
   "_phantomChildren": {},
@@ -27,13 +27,13 @@
     "Economy"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "./srd/index.js",
   "name": "discord-dba",
   "scripts": {
     "start": "node .",
     "test": "npm install && npm run discord-dba",
     "release-to-branch": "discord-dba"
   },
-  "version": "0.2.8",
+  "version": "0.3.2",
   "readme": "README.md"
 }
