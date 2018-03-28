@@ -27,7 +27,7 @@
     "Economy"
   ],
   "license": "MIT",
-  "main": "./srd/index.js",
+  "main": "./src/index.js",
   "name": "discord-dba",
   "scripts": {
     "start": "node .",
